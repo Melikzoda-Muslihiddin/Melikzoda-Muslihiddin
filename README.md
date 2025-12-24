@@ -7,3 +7,9 @@
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+<h2 align="center">🛠 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-ff6f00?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo
