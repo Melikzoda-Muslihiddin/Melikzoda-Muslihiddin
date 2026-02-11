@@ -31,15 +31,17 @@
 
 ---
 
+---
+
 ### 📊 Статистика активности
 
 <p **align**="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Melikzoda-Muslihiddin&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melikzoda-Muslihiddin&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Melikzoda-Muslihiddin&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melikzoda-Muslihiddin&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8" width="48%" alt="Top Languages" />
 </p>
 
 <p **align**="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Melikzoda-Muslihiddin&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Melikzoda-Muslihiddin&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8" width="100%" alt="GitHub Streak" />
 </p>
 
 ---
