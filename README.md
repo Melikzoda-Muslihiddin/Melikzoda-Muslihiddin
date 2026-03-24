@@ -82,8 +82,8 @@ Frontend Developer focused on building **real-world applications** with clean ar
 
 ## 📫 Contact Me
 
-[![](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Melikzoda_M)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muslihiddin.melikzoda@gmail.com)
+[![](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mel1kow)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muslimmelikzoda@gmail.com)
 
 ![](https://raw.githubusercontent.com/Trilokia/Trilokia/master/assets/animated_line.gif)
 
