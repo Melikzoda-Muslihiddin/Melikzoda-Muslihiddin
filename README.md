@@ -2,89 +2,122 @@
 
 # ⚡ Melikzoda Muslihiddin
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+TypeScript;UI%2FUX+Designer;Building+Real+Projects)](https://git.io/typing-svg)
+### Frontend Developer | React • TypeScript • Tailwind
+
+### Building modern, scalable and user-focused web applications
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Tailwind;Building+real-world+applications;Clean+UI+%2B+Strong+logic+%2B+Modern+stack)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=Melikzoda-Muslihiddin&color=38BDF8&style=flat-square&label=PROFILE+VIEWS)
 
----
+[![Telegram](https://img.shields.io/badge/Telegram-@mel1kow-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mel1kow)
+[![Instagram](https://img.shields.io/badge/Instagram-mel1kow.l8-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mel1kow.l8)
+[![Gmail](https://img.shields.io/badge/Gmail-muslimmelikzoda-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muslimmelikzoda@gmail.com)
 
-## 💫 About Me
-
-Frontend Developer focused on building **real-world applications** with clean architecture and modern UI.
-
-- 🧠 Strong in JavaScript fundamentals & problem solving
-- ⚙️ Building CRUD apps with **API integration (axios, json-server)**
-- 🎯 Focus: **STATE → UI → EVENTS → UPDATE → RENDER**
-- 🎨 Combining **design (Figma)** with **development (React)**
+</div>
 
 ---
 
-## 🚀 Projects
+## 🚀 About Me
 
-### 🛒 TechStore (Full CRUD App)
+I am a **Frontend Developer** focused on building modern web applications with real-world functionality.
 
-- Add / Edit / Delete products
-- Search, Filter, Pagination
-- Cart logic + localStorage
-- API: json-server
+I follow a structured approach:
 
-**Stack:** TypeScript, Tailwind, Axios
+**State → UI → Events → Update → Render**
 
-🔗 GitHub: https://github.com/Melikzoda-Muslihiddin
-🔗 Demo: (add later)
+### Focus Areas:
 
----
-
-### 👥 Users Table (CRUD + UI)
-
-- Add / Edit / Delete / Info dialogs
-- Status control (checkbox)
-- Search & filter
-
-**Stack:** React / TypeScript
-
-🔗 GitHub: https://github.com/Melikzoda-Muslihiddin
+- CRUD applications with API integration
+- Responsive UI development
+- Clean and scalable architecture
+- React & TypeScript ecosystems
+- UI/UX implementation from Figma
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Development
+### Frontend
 
-![](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,git,vscode&theme=dark)
+![](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass)
 
-### 🎨 Design
+### Tools
 
-![](https://skillicons.dev/icons?i=figma,ps,canva&theme=dark)
+![](https://skillicons.dev/icons?i=git,github,vscode,figma,ps,canva)
+
+---
+
+## 💼 Featured Projects
+
+### 🛒 TechStore — E-commerce Frontend
+
+- Product catalog
+- Search / filter / sorting
+- Pagination
+- Cart (localStorage)
+- API via json-server
+
+**Stack:** TypeScript, Tailwind, Axios
+
+🔗 GitHub: https://github.com/Melikzoda-Muslihiddin  
+🔗 Demo: Coming soon
+
+---
+
+### 👥 Users Dashboard (CRUD)
+
+- Add / Edit / Delete / Info
+- Status control
+- Search & filter
+
+**Stack:** React, TypeScript, MUI
+
+🔗 GitHub: https://github.com/Melikzoda-Muslihiddin
 
 ---
 
 ## 🧠 Skills
 
-- CRUD architecture (full cycle)
+- CRUD architecture
 - REST API integration
-- Async logic (async/await)
-- State management (React / DOM)
-- Search, filter, pagination
-- Git (branching, reset, merge)
+- Async logic
+- State-driven UI
+- Filtering / pagination
+- Git workflow
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
+
+<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=Melikzoda-Muslihiddin&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Melikzoda-Muslihiddin&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Melikzoda-Muslihiddin&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8)
+</div>
 
 ---
 
-## 📫 Contact Me
+## 🎯 Goals
 
-[![](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mel1kow)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muslimmelikzoda@gmail.com)
+- Become strong React developer
+- Build production-level projects
+- Move into Fullstack
 
-![](https://raw.githubusercontent.com/Trilokia/Trilokia/master/assets/animated_line.gif)
+---
+
+## 📫 Contact
+
+- Telegram: https://t.me/mel1kow
+- Instagram: https://instagram.com/mel1kow.l8
+- Email: muslimmelikzoda@gmail.com
+
+---
+
+<div align="center">
+
+🚀 Open to work & freelance opportunities
 
 </div>
