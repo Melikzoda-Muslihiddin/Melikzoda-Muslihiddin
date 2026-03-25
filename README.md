@@ -40,7 +40,7 @@ I follow a structured approach:
 
 ### Frontend
 
-![](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass)
+![](https://skillicons.dev/icons?i=html,css,mui.io,swiper.js,ant.design,js,ts,react,tailwind,sass)
 
 ### Tools
 
