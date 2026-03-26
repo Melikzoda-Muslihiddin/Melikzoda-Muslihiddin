@@ -71,15 +71,14 @@ Frontend Developer from **Dushanbe, Tajikistan 🇹🇯**
 ### 🎯 Design & Other
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/figma" height="36" alt="Figma" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/canva" height="36" alt="Canva" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/adobephotoshop" height="36" alt="Photoshop" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/visualstudiocode" height="36" alt="VS Code" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/atom" height="36" alt="Atom" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=photoshop" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/canva" height="36" />
+  <img src="https://cdn.simpleicons.org/atom" height="36" />
 </p>
 
 ---
