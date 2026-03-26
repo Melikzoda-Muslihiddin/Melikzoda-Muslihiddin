@@ -22,26 +22,20 @@ Frontend Developer from **Dushanbe, Tajikistan 🇹🇯**
 
 ## 🛠 Tech Stack
 
-### 🚀 Core
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
-</p>
-
 ### 🎨 UI & Styling
 
 <p>
   <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mui" />
+  <img src="https://skillicons.dev/icons?i=antd" />
 </p>
 
 ### ⚙️ Tools & Ecosystem
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vite,webpack" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=json&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=axios" />
+  <img src="https://skillicons.dev/icons?i=json" />
 </p>
 
 ### 🎯 Other
@@ -123,15 +117,15 @@ Real estate UI
 
 <p align="left">
   <a href="https://t.me/mel1kow" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@mel1kow-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=telegram" height="40"/>
   </a>
   
   <a href="https://instagram.com/mel1kow.l8" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-mel1kow.l8-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
   
   <a href="mailto:muslimmelikzoda@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
 
