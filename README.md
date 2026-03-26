@@ -22,7 +22,7 @@ Frontend Developer from **Dushanbe, Tajikistan 🇹🇯**
 
 ## 🛠 Tech Stack
 
-### 🚀 Core
+
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/html5" height="36" alt="HTML" />
@@ -38,7 +38,7 @@ Frontend Developer from **Dushanbe, Tajikistan 🇹🇯**
   <img src="https://cdn.simpleicons.org/cplusplus" height="36" alt="C++" />
 </p>
 
-### 🎨 UI & Styling
+
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/tailwindcss" height="36" alt="Tailwind CSS" />
@@ -50,12 +50,12 @@ Frontend Developer from **Dushanbe, Tajikistan 🇹🇯**
   <img src="https://cdn.simpleicons.org/swiper" height="36" alt="Swiper" />
 </p>
 
-### ⚙️ Tools & Ecosystem
+
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/git" height="36" alt="Git" />
   &nbsp;&nbsp;
-  <img src="https://tse1.mm.bing.net/th/id/OIP.uwTXeoRua-yoEcS-HY40QgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" height="36" alt="GitHub" />
+  <img src="https://pngimg.com/d/github_PNG85.png" height="36" alt="GitHub" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/vite" height="36" alt="Vite" />
   &nbsp;&nbsp;
@@ -63,11 +63,11 @@ Frontend Developer from **Dushanbe, Tajikistan 🇹🇯**
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/axios" height="36" alt="Axios" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/json" height="36" alt="JSON" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1280px-JSON_vector_logo.svg.png" height="36" alt="JSON" />
 
 </p>
 
-### 🎯 Design & Other
+
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma" />
@@ -77,7 +77,7 @@ Frontend Developer from **Dushanbe, Tajikistan 🇹🇯**
 
 <p align="left">
   <img src="https://th.bing.com/th/id/R.e35d40ddf7ffae42642564022395f3d4?rik=4JR6Z%2fBPCF2PSA&pid=ImgRaw&r=0" height="36"/>
-  <img src="https://tse1.mm.bing.net/th/id/OIP.cEUaEzZfhfuX8f710WJv2QHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" height="36"/>
+  <img src="https://www.clipartmax.com/png/middle/114-1147348_atom-is-an-open-source-editor-created-by-github-atom-io-logo.png" height="36"/>
 </p>
 
 ---
