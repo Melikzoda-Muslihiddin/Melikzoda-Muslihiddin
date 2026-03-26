@@ -76,8 +76,8 @@ Frontend Developer from **Dushanbe, Tajikistan 🇹🇯**
 </p>
 
 <p align="left">
-  <img src="https://th.bing.com/th/id/R.e35d40ddf7ffae42642564022395f3d4?rik=4JR6Z%2fBPCF2PSA&pid=ImgRaw&r=0" />
-  <img src="https://tse1.mm.bing.net/th/id/OIP.cEUaEzZfhfuX8f710WJv2QHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" />
+  <img src="https://th.bing.com/th/id/R.e35d40ddf7ffae42642564022395f3d4?rik=4JR6Z%2fBPCF2PSA&pid=ImgRaw&r=0" height="36"/>
+  <img src="https://tse1.mm.bing.net/th/id/OIP.cEUaEzZfhfuX8f710WJv2QHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" height="36"/>
 </p>
 
 ---
