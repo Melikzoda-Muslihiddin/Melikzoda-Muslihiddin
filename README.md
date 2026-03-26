@@ -64,8 +64,7 @@ Frontend Developer from **Dushanbe, Tajikistan 🇹🇯**
   <img src="https://cdn.simpleicons.org/axios" height="36" alt="Axios" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/json" height="36" alt="JSON" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gitlab" height="36" alt="GitLab" />
+  
 </p>
 
 ### 🎯 Design & Other
@@ -77,8 +76,8 @@ Frontend Developer from **Dushanbe, Tajikistan 🇹🇯**
 </p>
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/canva" height="36" />
-  <img src="https://cdn.simpleicons.org/atom" height="36" />
+  <img src="https://cdn.simpleicons.org/canva" />
+  <img src="https://cdn.simpleicons.org/atom" />
 </p>
 
 ---
