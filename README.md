@@ -55,7 +55,7 @@ Frontend Developer from **Dushanbe, Tajikistan 🇹🇯**
 <p align="left">
   <img src="https://cdn.simpleicons.org/git" height="36" alt="Git" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github" height="36" alt="GitHub" />
+  <img src="https://tse1.mm.bing.net/th/id/OIP.uwTXeoRua-yoEcS-HY40QgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" height="36" alt="GitHub" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/vite" height="36" alt="Vite" />
   &nbsp;&nbsp;
@@ -64,7 +64,7 @@ Frontend Developer from **Dushanbe, Tajikistan 🇹🇯**
   <img src="https://cdn.simpleicons.org/axios" height="36" alt="Axios" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/json" height="36" alt="JSON" />
-  
+
 </p>
 
 ### 🎯 Design & Other
@@ -76,8 +76,8 @@ Frontend Developer from **Dushanbe, Tajikistan 🇹🇯**
 </p>
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/canva" />
-  <img src="https://cdn.simpleicons.org/atom" />
+  <img src="https://th.bing.com/th/id/R.e35d40ddf7ffae42642564022395f3d4?rik=4JR6Z%2fBPCF2PSA&pid=ImgRaw&r=0" />
+  <img src="https://tse1.mm.bing.net/th/id/OIP.cEUaEzZfhfuX8f710WJv2QHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" />
 </p>
 
 ---
