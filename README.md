@@ -22,26 +22,64 @@ Frontend Developer from **Dushanbe, Tajikistan 🇹🇯**
 
 ## 🛠 Tech Stack
 
+### 🚀 Core
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/html5" height="36" alt="HTML" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css" height="36" alt="CSS" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript" height="36" alt="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript" height="36" alt="TypeScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react" height="36" alt="React" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cplusplus" height="36" alt="C++" />
+</p>
+
 ### 🎨 UI & Styling
 
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://skillicons.dev/icons?i=mui" />
-  <img src="https://skillicons.dev/icons?i=antd" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/tailwindcss" height="36" alt="Tailwind CSS" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mui" height="36" alt="MUI" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/antdesign" height="36" alt="Ant Design" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/swiper" height="36" alt="Swiper" />
 </p>
 
 ### ⚙️ Tools & Ecosystem
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vite,webpack" />
-  <img src="https://skillicons.dev/icons?i=axios" />
-  <img src="https://skillicons.dev/icons?i=json" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/git" height="36" alt="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github" height="36" alt="GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vite" height="36" alt="Vite" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/webpack" height="36" alt="Webpack" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/axios" height="36" alt="Axios" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/json" height="36" alt="JSON" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/gitlab" height="36" alt="GitLab" />
 </p>
 
-### 🎯 Other
+### 🎯 Design & Other
 
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,ps" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/figma" height="36" alt="Figma" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/canva" height="36" alt="Canva" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/adobephotoshop" height="36" alt="Photoshop" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/visualstudiocode" height="36" alt="VS Code" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/atom" height="36" alt="Atom" />
 </p>
 
 ---
@@ -117,15 +155,15 @@ Real estate UI
 
 <p align="left">
   <a href="https://t.me/mel1kow" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" height="40"/>
+    <img src="https://cdn.simpleicons.org/telegram" height="36" alt="Telegram" />
   </a>
-  
+  &nbsp;&nbsp;
   <a href="https://instagram.com/mel1kow.l8" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+    <img src="https://cdn.simpleicons.org/instagram" height="36" alt="Instagram" />
   </a>
-  
+  &nbsp;&nbsp;
   <a href="mailto:muslimmelikzoda@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+    <img src="https://cdn.simpleicons.org/gmail" height="36" alt="Gmail" />
   </a>
 </p>
 
