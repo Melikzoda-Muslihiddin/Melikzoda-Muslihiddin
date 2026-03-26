@@ -24,31 +24,31 @@ Frontend Developer from **Dushanbe, Tajikistan 🇹🇯**
 
 ### 🚀 Core
 
-![HTML](https://img.shields.io/badge/-HTML-orange)
-![CSS](https://img.shields.io/badge/-CSS-blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6)
-![React](https://img.shields.io/badge/-React-61DAFB)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+</p>
 
 ### 🎨 UI & Styling
 
-![Tailwind](https://img.shields.io/badge/-Tailwind-38BDF8)
-![MUI](https://img.shields.io/badge/-MUI-007FFF)
-![Ant Design](https://img.shields.io/badge/-AntDesign-0170FE)
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white"/>
+</p>
 
 ### ⚙️ Tools & Ecosystem
 
-![Git](https://img.shields.io/badge/-Git-black)
-![GitHub](https://img.shields.io/badge/-GitHub-181717)
-![Vite](https://img.shields.io/badge/-Vite-646CFF)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9)
-![Axios](https://img.shields.io/badge/-Axios-purple)
-![JSON](https://img.shields.io/badge/-JSON-black)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vite,webpack" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=json&logoColor=white"/>
+</p>
 
 ### 🎯 Other
 
-![Figma](https://img.shields.io/badge/-Figma-F24E1E)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF)
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps" />
+</p>
 
 ---
 
@@ -121,9 +121,19 @@ Real estate UI
 
 ## 📫 Contact
 
-- 📱 Telegram: @mel1kow
-- 📸 Instagram: mel1kow.l8
-- 📧 Email: muslimmelikzoda@gmail.com
+<p align="left">
+  <a href="https://t.me/mel1kow" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@mel1kow-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  
+  <a href="https://instagram.com/mel1kow.l8" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-mel1kow.l8-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:muslimmelikzoda@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
