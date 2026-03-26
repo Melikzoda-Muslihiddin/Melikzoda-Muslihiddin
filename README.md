@@ -55,7 +55,7 @@ Frontend Developer from **Dushanbe, Tajikistan 🇹🇯**
 <p align="left">
   <img src="https://cdn.simpleicons.org/git" height="36" alt="Git" />
   &nbsp;&nbsp;
-  <img src="https://pngimg.com/d/github_PNG85.png" height="36" alt="GitHub" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" height="36" alt="GitHub" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/vite" height="36" alt="Vite" />
   &nbsp;&nbsp;
@@ -77,7 +77,7 @@ Frontend Developer from **Dushanbe, Tajikistan 🇹🇯**
 
 <p align="left">
   <img src="https://th.bing.com/th/id/R.e35d40ddf7ffae42642564022395f3d4?rik=4JR6Z%2fBPCF2PSA&pid=ImgRaw&r=0" height="36"/>
-  <img src="https://www.clipartmax.com/png/middle/114-1147348_atom-is-an-open-source-editor-created-by-github-atom-io-logo.png" height="36"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" height="36"/>
 </p>
 
 ---
