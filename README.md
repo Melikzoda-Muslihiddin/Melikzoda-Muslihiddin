@@ -1,123 +1,132 @@
 <div align="center">
 
-# ⚡ Melikzoda Muslihiddin
+# ⚡ Muslim Melikzoda
 
-### Frontend Developer | React • TypeScript • Tailwind
-
-### Building modern, scalable and user-focused web applications
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Tailwind;Building+real-world+applications;Clean+UI+%2B+Strong+logic+%2B+Modern+stack)](https://git.io/typing-svg)
-
-![](https://komarev.com/ghpvc/?username=Melikzoda-Muslihiddin&color=38BDF8&style=flat-square&label=PROFILE+VIEWS)
-
-[![Telegram](https://img.shields.io/badge/Telegram-@mel1kow-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mel1kow)
-[![Instagram](https://img.shields.io/badge/Instagram-mel1kow.l8-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mel1kow.l8)
-[![Gmail](https://img.shields.io/badge/Gmail-muslimmelikzoda-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muslimmelikzoda@gmail.com)
+[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer+(Junior%2B);React+%7C+TypeScript;Building+Real+Projects;Clean+Architecture+%26+UI>)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 💫 About Me
 
-I am a **Frontend Developer** focused on building modern web applications with real-world functionality.
+Frontend Developer from **Dushanbe, Tajikistan 🇹🇯**
 
-I follow a structured approach:
-
-**State → UI → Events → Update → Render**
-
-### Focus Areas:
-
-- CRUD applications with API integration
-- Responsive UI development
-- Clean and scalable architecture
-- React & TypeScript ecosystems
-- UI/UX implementation from Figma
+- 💻 Focused on building **real-world applications**
+- ⚛️ Working with **React, TypeScript, REST API**
+- 🧠 Strong in **JavaScript (confident level)**
+- 🎯 Goal: become a **Fullstack Developer**
+- 🚀 Open to **freelance & real projects**
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
+### 🚀 Core
 
-![](https://skillicons.dev/icons?i=html,css,mui.io,swiper.js,anjs,ts,react,tailwind,sass)
+![HTML](https://img.shields.io/badge/-HTML-orange)
+![CSS](https://img.shields.io/badge/-CSS-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6)
+![React](https://img.shields.io/badge/-React-61DAFB)
 
-### Tools
+### 🎨 UI & Styling
 
-![](https://skillicons.dev/icons?i=git,github,vscode,figma,ps,canva)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38BDF8)
+![MUI](https://img.shields.io/badge/-MUI-007FFF)
+![Ant Design](https://img.shields.io/badge/-AntDesign-0170FE)
 
----
+### ⚙️ Tools & Ecosystem
 
-## 💼 Featured Projects
+![Git](https://img.shields.io/badge/-Git-black)
+![GitHub](https://img.shields.io/badge/-GitHub-181717)
+![Vite](https://img.shields.io/badge/-Vite-646CFF)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9)
+![Axios](https://img.shields.io/badge/-Axios-purple)
+![JSON](https://img.shields.io/badge/-JSON-black)
 
-### 🛒 TechStore — E-commerce Frontend
+### 🎯 Other
 
-- Product catalog
-- Search / filter / sorting
-- Pagination
-- Cart (localStorage)
-- API via json-server
-
-**Stack:** TypeScript, Tailwind, Axios
-
-🔗 GitHub: https://github.com/Melikzoda-Muslihiddin  
-🔗 Demo: Coming soon
-
----
-
-### 👥 Users Dashboard (CRUD)
-
-- Add / Edit / Delete / Info
-- Status control
-- Search & filter
-
-**Stack:** React, TypeScript, MUI
-
-🔗 GitHub: https://github.com/Melikzoda-Muslihiddin
+![Figma](https://img.shields.io/badge/-Figma-F24E1E)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF)
 
 ---
 
-## 🧠 Skills
+## 🚀 Projects
 
-- CRUD architecture
-- REST API integration
-- Async logic
-- State-driven UI
-- Filtering / pagination
-- Git workflow
+### 🛒 TechStore (Main Project)
 
----
+**E-commerce Web Application**
 
-## 📈 GitHub Stats
+- 🔐 Authentication (Register / Login)
+- 🛍 Product Catalog with Categories
+- ❤️ Like system
+- 🛒 Cart system
+- 🔍 Search & Filters
+- ⚙️ Full CRUD logic
+- 📡 API integration (json-server)
 
-<div align="center">
+👉 Clean architecture & real business logic
 
-![](https://github-readme-stats.vercel.app/api?username=Melikzoda-Muslihiddin&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Melikzoda-Muslihiddin&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8)
-
-</div>
+🔗 Repo: https://github.com/Melikzoda-Muslihiddin/Tech-Store
 
 ---
 
-## 🎯 Goals
+### 🍔 GoodFood
 
-- Become strong React developer
-- Build production-level projects
-- Move into Fullstack
+Food ordering interface
+
+- Menu UI
+- Category filtering
+- Responsive design
+
+---
+
+### 💼 Career
+
+Landing page / career platform UI
+
+- Modern UI/UX
+- Clean layout
+- Component-based structure
+
+---
+
+### 🏨 Hotel
+
+Hotel booking interface
+
+- Cards & filtering
+- UI focused project
+
+---
+
+### 🏠 House Resident
+
+Real estate UI
+
+- Listings UI
+- Search logic
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Melikzoda-Muslihiddin&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melikzoda-Muslihiddin&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Contact
 
-- Telegram: https://t.me/mel1kow
-- Instagram: https://instagram.com/mel1kow.l8
-- Email: muslimmelikzoda@gmail.com
+- 📱 Telegram: @mel1kow
+- 📸 Instagram: mel1kow.l8
+- 📧 Email: muslimmelikzoda@gmail.com
 
 ---
 
-<div align="center">
+## ⚡ Philosophy
 
-🚀 Open to work & freelance opportunities
-
-</div>
+> Build real projects → Understand deeper → Become stronger developer
