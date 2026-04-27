@@ -39,13 +39,13 @@ Frontend Developer from **Dushanbe, Tajikistan 🇹🇯**
 
 ### 🔹 State Management
 <p align="left">
-  <img src="https://cdn.simpleicons.org/redux" height="36" alt="Redux" title="Redux" />
+
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" height="36" alt="Redux Toolkit" />
+  <img src="https://cdn.simpleicons.org/redux" height="36" alt="Redux Toolkit" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Zustand-433e38?style=flat-square&logo=react&logoColor=white" height="36" alt="Zustand" />
+  <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" height="36" alt="Zustand" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/jotai" height="36" alt="Jotai" title="Jotai" />
+  <img src="https://cdn.candycode.com/jotai/jotai-mascot.png" height="36" alt="Jotai" title="Jotai" />
 </p>
 
 ### 🔹 UI Libraries & Styling
@@ -63,7 +63,7 @@ Frontend Developer from **Dushanbe, Tajikistan 🇹🇯**
 
 ### 🔹 Forms, Validation & APIs
 <p align="left">
-  <img src="https://img.shields.io/badge/Formik-172B4D?style=flat-square&logo=react&logoColor=white" height="36" alt="Formik" />
+  <img src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" height="36" alt="Formik" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/zod" height="36" alt="Zod" title="Zod" />
   &nbsp;&nbsp;
@@ -82,7 +82,7 @@ Frontend Developer from **Dushanbe, Tajikistan 🇹🇯**
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/webpack" height="36" alt="Webpack" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=spacex&logoColor=white" height="36" alt="Antigravity" title="Because why not?" />
+  <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" height="36" alt="Antigravity" title="Because why not?" />
 </p>
 
 <p align="left">
