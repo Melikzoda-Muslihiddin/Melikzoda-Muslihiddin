@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Muslim Melikzoda
+# ⚡ Muslihiddin Melikzoda
 
 [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer+(Junior%2B);React+%7C+TypeScript;Building+Real+Projects;Clean+Architecture+%26+UI>)](https://git.io/typing-svg)
 
@@ -22,8 +22,7 @@ Frontend Developer from **Dushanbe, Tajikistan 🇹🇯**
 
 ## 🛠 Tech Stack
 
-
-
+### 🔹 Core & Languages
 <p align="left">
   <img src="https://cdn.simpleicons.org/html5" height="36" alt="HTML" />
   &nbsp;&nbsp;
@@ -38,10 +37,22 @@ Frontend Developer from **Dushanbe, Tajikistan 🇹🇯**
   <img src="https://cdn.simpleicons.org/cplusplus" height="36" alt="C++" />
 </p>
 
+### 🔹 State Management
+<p align="left">
+  <img src="https://cdn.simpleicons.org/redux" height="36" alt="Redux" title="Redux" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" height="36" alt="Redux Toolkit" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Zustand-433e38?style=flat-square&logo=react&logoColor=white" height="36" alt="Zustand" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jotai" height="36" alt="Jotai" title="Jotai" />
+</p>
 
-
+### 🔹 UI Libraries & Styling
 <p align="left">
   <img src="https://cdn.simpleicons.org/tailwindcss" height="36" alt="Tailwind CSS" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/shadcnui" height="36" alt="Shadcn UI" title="Shadcn UI" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/mui" height="36" alt="MUI" />
   &nbsp;&nbsp;
@@ -50,8 +61,18 @@ Frontend Developer from **Dushanbe, Tajikistan 🇹🇯**
   <img src="https://cdn.simpleicons.org/swiper" height="36" alt="Swiper" />
 </p>
 
+### 🔹 Forms, Validation & APIs
+<p align="left">
+  <img src="https://img.shields.io/badge/Formik-172B4D?style=flat-square&logo=react&logoColor=white" height="36" alt="Formik" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/zod" height="36" alt="Zod" title="Zod" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/axios" height="36" alt="Axios" />
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1280px-JSON_vector_logo.svg.png" height="36" alt="JSON" />
+</p>
 
-
+### 🔹 Tools, Design & Environment
 <p align="left">
   <img src="https://cdn.simpleicons.org/git" height="36" alt="Git" />
   &nbsp;&nbsp;
@@ -61,22 +82,18 @@ Frontend Developer from **Dushanbe, Tajikistan 🇹🇯**
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/webpack" height="36" alt="Webpack" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/axios" height="36" alt="Axios" />
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=spacex&logoColor=white" height="36" alt="Antigravity" title="Because why not?" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" height="36" />
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1280px-JSON_vector_logo.svg.png" height="36" alt="JSON" />
-
-</p>
-
-
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://skillicons.dev/icons?i=photoshop" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-</p>
-
-<p align="left">
+  <img src="https://skillicons.dev/icons?i=photoshop" height="36" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="36" />
+  &nbsp;&nbsp;
   <img src="https://th.bing.com/th/id/R.e35d40ddf7ffae42642564022395f3d4?rik=4JR6Z%2fBPCF2PSA&pid=ImgRaw&r=0" height="36"/>
+  &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" height="36"/>
 </p>
 
